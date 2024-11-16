@@ -475,55 +475,55 @@
       "memory": [
         {
           "name": "Zap",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/0b/Spell_Zap.png/96px-Spell_Zap.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Zap.png"
         },
         {
           "name": "Light Orb",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/8/85/Spell_Light_Orb.png/96px-Spell_Light_Orb.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Light_Orb.png"
         },
         {
           "name": "Magic Lock",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/c/cb/Magic_Lock.png/96px-Magic_Lock.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Magic_Lock.png"
         },
         {
           "name": "Slow",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/a/ae/Spell_Slow.png/96px-Spell_Slow.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Slow.png"
         },
         {
           "name": "Ignite",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/4/4d/Spell_Ignite.png/96px-Spell_Ignite.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Ignite.png"
         },
         {
           "name": "Ice Bolt",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/d3/Spell_Ice_Bolt.png/96px-Spell_Ice_Bolt.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Ice_Bolt.png"
         },
         {
           "name": "Magic Missile",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/a/a6/Spell_Magic_Missile.png/96px-Spell_Magic_Missile.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Magic_Missile.png"
         },
         {
           "name": "Haste",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/24/Spell_Haste.png/96px-Spell_Haste.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Haste.png"
         },
         {
           "name": "Lightning Strike",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/7/76/Spell_Lightning_Strike.png/96px-Spell_Lightning_Strike.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Lightning_Strike.png"
         },
         {
           "name": "Invisibility",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/6/6c/Spell_Invisibility.png/96px-Spell_Invisibility.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Invisibility.png"
         },
         {
           "name": "Fireball",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e2/Spell_Fireball.png/96px-Spell_Fireball.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Fireball.png"
         },
         {
           "name": "Explosion",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/7/70/Explosion_spell_icon.png/96px-Explosion_spell_icon.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Explosion_spell_icon.png"
         },
         {
           "name": "Chain Lightning",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/2d/Spell_Chain_Lightning.png/96px-Spell_Chain_Lightning.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Chain_Lightning.png"
         }
       ]
     },
@@ -653,51 +653,51 @@
       "memory": [
         {
           "name": "Protection",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/06/Spell_Protection.png/96px-Spell_Protection.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Protection.png"
         },
         {
           "name": "Bless",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/3a/Spell_Bless.png/96px-Spell_Bless.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Bless.png"
         },
         {
           "name": "Divine Strike",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/4/4f/Spell_Divine_Strike.png/96px-Spell_Divine_Strike.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Divine_Strike.png"
         },
         {
           "name": "Cleanse",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/df/Spell_Cleanse.png/96px-Spell_Cleanse.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Cleanse.png"
         },
         {
           "name": "Lesser Heal",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/9/9b/Spell_Lesser_Heal.png/96px-Spell_Lesser_Heal.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Lesser_Heal.png"
         },
         {
           "name": "Bind",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/f/f6/Spell_Bind.png/96px-Spell_Bind.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Bind.png"
         },
         {
           "name": "Holy Strike",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/9/92/Spell_Holy_Strike.png/96px-Spell_Holy_Strike.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Holy_Strike.png"
         },
         {
           "name": "Holy Light",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/26/Spell_Holy_Light.png/96px-Spell_Holy_Light.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Holy_Light.png"
         },
         {
           "name": "Sanctuary",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e6/Spell_Sanctuary.png/96px-Spell_Sanctuary.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Sanctuary.png"
         },
         {
           "name": "Locust Swarm",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/7/7c/Spell_Locusts_Swarm.png/96px-Spell_Locusts_Swarm.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Locusts_Swarm.png"
         },
         {
           "name": "Earthquake",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/b/b1/Spell_Earthquake.png/96px-Spell_Earthquake.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Earthquake.png"
         },
         {
           "name": "Resurrection",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/5/56/Spell_Resurrection.png/96px-Spell_Resurrection.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Resurrection.png"
         }
       ]
     },
@@ -859,79 +859,79 @@
       "memory": [
         {
           "name": "Rousing Rhythms",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e4/Music_Rousing_Rhythms.png/96px-Music_Rousing_Rhythms.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Rousing_Rhythms.png"
         },
         {
           "name": "Din of Darkness",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/d9/Music_Din_of_Darkness.png/96px-Music_Din_of_Darkness.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Din_of_Darkness.png"
         },
         {
           "name": "Beats of Alacrity",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/6/61/Music_Beats_of_Alacrity.png/96px-Music_Beats_of_Alacrity.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Beats_of_Alacrity.png"
         },
         {
           "name": "Allegro",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/8/85/Music_Allegro.png/96px-Music_Allegro.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Allegro.png"
         },
         {
           "name": "Accelerando",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/2e/Music_Accelerando.png/96px-Music_Accelerando.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Accelerando.png"
         },
         {
           "name": "Unchained Harmony",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/f/fa/Music_Unchained_Harmony.png/96px-Music_Unchained_Harmony.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Unchained_Harmony.png"
         },
         {
           "name": "Shriek of Weakness",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/f/f4/Music_Shriek_of_Weakness.png/96px-Music_Shriek_of_Weakness.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Shriek_of_Weakness.png"
         },
         {
           "name": "Piercing Shrill",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/d8/Music_Piercing_Shrill.png/96px-Music_Piercing_Shrill.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Piercing_Shrill.png"
         },
         {
           "name": "Banshees Howl",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/d8/Music_Banshees_Howl.png/96px-Music_Banshees_Howl.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Banshees_Howl.png"
         },
         {
           "name": "Song of Silence",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e6/Music_Song_of_Silence.png/96px-Music_Song_of_Silence.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Song_of_Silence.png"
         },
         {
           "name": "Peacemaking",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/1/1f/Music_Peacemaking.png/96px-Music_Peacemaking.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Peacemaking.png"
         },
         {
           "name": "Lament of Languor",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/d/d3/Music_Lament_of_Languor.png/96px-Music_Lament_of_Languor.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Lament_of_Languor.png"
         },
         {
           "name": "Chaotic Discord",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/1/13/Music_Chaotic_Discord.png/96px-Music_Chaotic_Discord.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Chaotic_Discord.png"
         },
         {
           "name": "Aria of Alacrity",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/c/ca/Music_Aria_of_Alacrity.png/96px-Music_Aria_of_Alacrity.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Aria_of_Alacrity.png"
         },
         {
           "name": "Tranquility",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/c/c3/Music_Tranquility.png/96px-Music_Tranquility.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Tranquility.png"
         },
         {
           "name": "Song of Shadow",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/4/43/Music_Song_of_Shadow.png/96px-Music_Song_of_Shadow.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Song_of_Shadow.png"
         },
         {
           "name": "Harmonic Shield",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/4/46/Music_Harmonic_Shield.png/96px-Music_Harmonic_Shield.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Harmonic_Shield.png"
         },
         {
           "name": "Chorale of Clarity",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e5/Music_Chorale_of_Clarity.png/96px-Music_Chorale_of_Clarity.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Chorale_of_Clarity.png"
         },
         {
           "name": "Ballad of Courage",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/a/a4/Music_Ballad_of_Courage.png/96px-Music_Ballad_of_Courage.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Music_Ballad_of_Courage.png"
         }
       ]
     },
@@ -1069,55 +1069,55 @@
       "memory": [
         {
           "name": "Power of Sacrifice",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/3f/Spell_Power_of_Sacrifice.png/96px-Spell_Power_of_Sacrifice.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Power_of_Sacrifice.png"
         },
         {
           "name": "Curse of Weakness",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/04/Spell_Curse_of_Weakness.png/96px-Spell_Curse_of_Weakness.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Curse_of_Weakness.png"
         },
         {
           "name": "Bolt of Darkness",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/38/Spell_Bolt_of_Darkness.png/96px-Spell_Bolt_of_Darkness.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Bolt_of_Darkness.png"
         },
         {
           "name": "Curse of Pain",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/3c/Spell_Curse_of_Pain.png/96px-Spell_Curse_of_Pain.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Curse_of_Pain.png"
         },
         {
           "name": "Bloodstained Blade",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/8/87/Spell_Bloodstained_Blade.png/96px-Spell_Bloodstained_Blade.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Bloodstained_Blade.png"
         },
         {
           "name": "Spell Predation",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/39/Spell_Spell_Predation.png/96px-Spell_Spell_Predation.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Spell_Predation.png"
         },
         {
           "name": "Each Darkness Shard grants a 20%  Dark Power Bonus and can store up to 5. This effect is consumed when casting a dark spell.",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/3/32/DarkDamage.png/20px-DarkDamage.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/20px-DarkDamage.png"
         },
         {
           "name": "Ray of Darkness",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/c/c9/Spell_Ray_of_Darkness.png/96px-Spell_Ray_of_Darkness.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Ray_of_Darkness.png"
         },
         {
           "name": "Life Drain",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/23/Spell_Life_Drain.png/96px-Spell_Life_Drain.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Life_Drain.png"
         },
         {
           "name": "Hellfire",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/7/77/Spell_Hellfire.png/96px-Spell_Hellfire.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Hellfire.png"
         },
         {
           "name": "Flame Walker",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/f/fc/Spell_Flame_Walker.png/96px-Spell_Flame_Walker.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Flame_Walker.png"
         },
         {
           "name": "Eldritch Shield",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/2e/Spell_Eldritch_Shield.png/96px-Spell_Eldritch_Shield.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Eldritch_Shield.png"
         },
         {
           "name": "Summon Hydra",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/4/49/Spell_Summon_Hydra.png/96px-Spell_Summon_Hydra.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Summon_Hydra.png"
         }
       ]
     },
@@ -1255,39 +1255,39 @@
       "memory": [
         {
           "name": "Nature's Touch",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/f/f1/Spell_NaturesTouch.png/96px-Spell_NaturesTouch.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_NaturesTouch.png"
         },
         {
           "name": "Barkskin Armor",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/b/bf/Spell_BarkskinArmor.png/96px-Spell_BarkskinArmor.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_BarkskinArmor.png"
         },
         {
           "name": "Dreamfire",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/05/Spell_Dreamfire.png/96px-Spell_Dreamfire.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Dreamfire.png"
         },
         {
           "name": "Thorn Barrier",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/5/51/Spell_ThornBarrier.png/96px-Spell_ThornBarrier.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_ThornBarrier.png"
         },
         {
           "name": "Entangling Vines",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/8/8c/Spell_EntanglingVines.png/96px-Spell_EntanglingVines.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_EntanglingVines.png"
         },
         {
           "name": "Restore",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/7/7f/Spell_Restore.png/96px-Spell_Restore.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Restore.png"
         },
         {
           "name": "Summon Treant",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/26/Spell_SummonTreant.png/96px-Spell_SummonTreant.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_SummonTreant.png"
         },
         {
           "name": "Tree of Life",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/02/Spell_TreeOfLife.png/96px-Spell_TreeOfLife.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_TreeOfLife.png"
         },
         {
           "name": "Mending Grove",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e2/Spell_MendingGrove.png/96px-Spell_MendingGrove.png"
+          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_MendingGrove.png"
         }
       ]
     }
