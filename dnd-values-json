@@ -87,7 +87,8 @@
           "name": "Victory Strike",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/40/Skill_Victory_Strike.png/96px-Skill_Victory_Strike.png"
         }
-      ]
+      ],
+      "memory": []
     },
     {
       "name": "Barbarian",
@@ -175,7 +176,8 @@
           "name": "War Cry",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/56/Skill_War_Cry.png/96px-Skill_War_Cry.png"
         }
-      ]
+      ],
+      "memory": []
     },
     {
       "name": "Rogue",
@@ -259,7 +261,8 @@
           "name": "Weakpoint Attack",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/72/Skill_Weakpoint_Attack.png/96px-Skill_Weakpoint_Attack.png"
         }
-      ]
+      ],
+      "memory": []
     },
     {
       "name": "Ranger",
@@ -343,7 +346,8 @@
           "name": "True Shot",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b6/Skill_True_Shot.png/96px-Skill_True_Shot.png"
         }
-      ]
+      ],
+      "memory": []
     },
     {
       "name": "Wizard",
