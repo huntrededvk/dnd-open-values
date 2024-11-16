@@ -1288,26 +1288,6 @@
         {
           "name": "Mending Grove",
           "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/e/e2/Spell_MendingGrove.png/96px-Spell_MendingGrove.png"
-        },
-        {
-          "name": "Human",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/2/2e/ShapeShift_DefaultCharacter.png/96px-ShapeShift_DefaultCharacter.png"
-        },
-        {
-          "name": "Bear",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/a/a7/ShapeShift_Bear.png/96px-ShapeShift_Bear.png"
-        },
-        {
-          "name": "Chicken",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/0/0d/ShapeShift_Chicken.png/96px-ShapeShift_Chicken.png"
-        },
-        {
-          "name": "Panther",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/b/b9/ShapeShift_Panther.png/96px-ShapeShift_Panther.png"
-        },
-        {
-          "name": "Rat",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/thumb/a/a9/ShapeShift_Rat.png/96px-ShapeShift_Rat.png"
         }
       ]
     }
