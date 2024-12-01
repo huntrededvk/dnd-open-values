@@ -1012,58 +1012,6 @@
         {
           "name": "Spell Memory",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e3/Skill_Spell_Memory.png/96px-Skill_Spell_Memory.png"
-        },
-        {
-          "name": "Power of Sacrifice",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/3f/Spell_Power_of_Sacrifice.png/96px-Spell_Power_of_Sacrifice.png"
-        },
-        {
-          "name": "Curse of Weakness",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/04/Spell_Curse_of_Weakness.png/96px-Spell_Curse_of_Weakness.png"
-        },
-        {
-          "name": "Bolt of Darkness",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/38/Spell_Bolt_of_Darkness.png/96px-Spell_Bolt_of_Darkness.png"
-        },
-        {
-          "name": "Curse of Pain",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/3c/Spell_Curse_of_Pain.png/96px-Spell_Curse_of_Pain.png"
-        },
-        {
-          "name": "Bloodstained Blade",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/87/Spell_Bloodstained_Blade.png/96px-Spell_Bloodstained_Blade.png"
-        },
-        {
-          "name": "Spell Predation",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/39/Spell_Spell_Predation.png/96px-Spell_Spell_Predation.png"
-        },
-        {
-          "name": "Evil Eye",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f9/Spell_Evil_Eye.png/96px-Spell_Evil_Eye.png"
-        },
-        {
-          "name": "Ray of Darkness",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c9/Spell_Ray_of_Darkness.png/96px-Spell_Ray_of_Darkness.png"
-        },
-        {
-          "name": "Life Drain",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/23/Spell_Life_Drain.png/96px-Spell_Life_Drain.png"
-        },
-        {
-          "name": "Hellfire",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/77/Spell_Hellfire.png/96px-Spell_Hellfire.png"
-        },
-        {
-          "name": "Flame Walker",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/fc/Spell_Flame_Walker.png/96px-Spell_Flame_Walker.png"
-        },
-        {
-          "name": "Eldritch Shield",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2e/Spell_Eldritch_Shield.png/96px-Spell_Eldritch_Shield.png"
-        },
-        {
-          "name": "Summon Hydra",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/49/Spell_Summon_Hydra.png/96px-Spell_Summon_Hydra.png"
         }
       ],
       "memory": [
