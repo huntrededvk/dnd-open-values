@@ -102,10 +102,6 @@
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2d/Perk_Berserker.png/96px-Perk_Berserker.png"
         },
         {
-          "name": "",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/95/BerserkerGraph.png/700px-BerserkerGraph.png"
-        },
-        {
           "name": "Carnage",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f1/Perk_Carnage.png/96px-Perk_Carnage.png"
         },
@@ -418,58 +414,6 @@
         {
           "name": "Spell Memory",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e3/Skill_Spell_Memory.png/96px-Skill_Spell_Memory.png"
-        },
-        {
-          "name": "Zap",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/0b/Spell_Zap.png/96px-Spell_Zap.png"
-        },
-        {
-          "name": "Light Orb",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/85/Spell_Light_Orb.png/96px-Spell_Light_Orb.png"
-        },
-        {
-          "name": "Slow",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/ae/Spell_Slow.png/96px-Spell_Slow.png"
-        },
-        {
-          "name": "Ice Bolt",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d3/Spell_Ice_Bolt.png/96px-Spell_Ice_Bolt.png"
-        },
-        {
-          "name": "Ignite",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/4d/Spell_Ignite.png/96px-Spell_Ignite.png"
-        },
-        {
-          "name": "Magic Lock",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/cb/Magic_Lock.png/96px-Magic_Lock.png"
-        },
-        {
-          "name": "Magic Missile",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a6/Spell_Magic_Missile.png/96px-Spell_Magic_Missile.png"
-        },
-        {
-          "name": "Haste",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/24/Spell_Haste.png/96px-Spell_Haste.png"
-        },
-        {
-          "name": "Lightning Strike",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/76/Spell_Lightning_Strike.png/96px-Spell_Lightning_Strike.png"
-        },
-        {
-          "name": "Invisibility",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/6c/Spell_Invisibility.png/96px-Spell_Invisibility.png"
-        },
-        {
-          "name": "Fireball",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e2/Spell_Fireball.png/96px-Spell_Fireball.png"
-        },
-        {
-          "name": "Explosion",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/70/Explosion_spell_icon.png/96px-Explosion_spell_icon.png"
-        },
-        {
-          "name": "Chain Lightning",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2d/Spell_Chain_Lightning.png/96px-Spell_Chain_Lightning.png"
         }
       ],
       "memory": [
@@ -600,54 +544,6 @@
         {
           "name": "Spell Memory",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e3/Skill_Spell_Memory.png/96px-Skill_Spell_Memory.png"
-        },
-        {
-          "name": "Protection",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/06/Spell_Protection.png/96px-Spell_Protection.png"
-        },
-        {
-          "name": "Bless",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/3a/Spell_Bless.png/96px-Spell_Bless.png"
-        },
-        {
-          "name": "Divine Strike",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/4f/Spell_Divine_Strike.png/96px-Spell_Divine_Strike.png"
-        },
-        {
-          "name": "Cleanse",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/df/Spell_Cleanse.png/96px-Spell_Cleanse.png"
-        },
-        {
-          "name": "Lesser Heal",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/9b/Spell_Lesser_Heal.png/96px-Spell_Lesser_Heal.png"
-        },
-        {
-          "name": "Bind",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f6/Spell_Bind.png/96px-Spell_Bind.png"
-        },
-        {
-          "name": "Holy Strike",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/92/Spell_Holy_Strike.png/96px-Spell_Holy_Strike.png"
-        },
-        {
-          "name": "Holy Light",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/26/Spell_Holy_Light.png/96px-Spell_Holy_Light.png"
-        },
-        {
-          "name": "Sanctuary",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e6/Spell_Sanctuary.png/96px-Spell_Sanctuary.png"
-        },
-        {
-          "name": "Locusts Swarm",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/7c/Spell_Locusts_Swarm.png/96px-Spell_Locusts_Swarm.png"
-        },
-        {
-          "name": "Earthquake",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b1/Spell_Earthquake.png/96px-Spell_Earthquake.png"
-        },
-        {
-          "name": "Resurrection",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/56/Spell_Resurrection.png/96px-Spell_Resurrection.png"
         }
       ],
       "memory": [
@@ -770,90 +666,6 @@
         {
           "name": "Party Maker",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f4/Skill_Partymaker.png/96px-Skill_Partymaker.png"
-        },
-        {
-          "name": "Rousing Rhythms",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e4/Music_Rousing_Rhythms.png/96px-Music_Rousing_Rhythms.png"
-        },
-        {
-          "name": "Din of Darkness",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d9/Music_Din_of_Darkness.png/96px-Music_Din_of_Darkness.png"
-        },
-        {
-          "name": "Beats of Alacrity",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/61/Music_Beats_of_Alacrity.png/96px-Music_Beats_of_Alacrity.png"
-        },
-        {
-          "name": "Allegro",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/85/Music_Allegro.png/96px-Music_Allegro.png"
-        },
-        {
-          "name": "Accelerando",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2e/Music_Accelerando.png/96px-Music_Accelerando.png"
-        },
-        {
-          "name": "Unchained Harmony",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/fa/Music_Unchained_Harmony.png/96px-Music_Unchained_Harmony.png"
-        },
-        {
-          "name": "Shriek of Weakness",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f4/Music_Shriek_of_Weakness.png/96px-Music_Shriek_of_Weakness.png"
-        },
-        {
-          "name": "",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e7/Shriekofweaknessgraph.png/500px-Shriekofweaknessgraph.png"
-        },
-        {
-          "name": "Piercing Shrill",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d8/Music_Piercing_Shrill.png/96px-Music_Piercing_Shrill.png"
-        },
-        {
-          "name": "Banshees Howl",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d8/Music_Banshees_Howl.png/96px-Music_Banshees_Howl.png"
-        },
-        {
-          "name": "Song of Silence",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e6/Music_Song_of_Silence.png/96px-Music_Song_of_Silence.png"
-        },
-        {
-          "name": "Peacemaking",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/1/1f/Music_Peacemaking.png/96px-Music_Peacemaking.png"
-        },
-        {
-          "name": "Lament of Languor",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d3/Music_Lament_of_Languor.png/96px-Music_Lament_of_Languor.png"
-        },
-        {
-          "name": "Chaotic Discord",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/1/13/Music_Chaotic_Discord.png/96px-Music_Chaotic_Discord.png"
-        },
-        {
-          "name": "Aria of Alacrity",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/ca/Music_Aria_of_Alacrity.png/96px-Music_Aria_of_Alacrity.png"
-        },
-        {
-          "name": "Tranquility",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c3/Music_Tranquility.png/96px-Music_Tranquility.png"
-        },
-        {
-          "name": "Song of Shadow",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/43/Music_Song_of_Shadow.png/96px-Music_Song_of_Shadow.png"
-        },
-        {
-          "name": "Harmonic Shield",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/46/Music_Harmonic_Shield.png/96px-Music_Harmonic_Shield.png"
-        },
-        {
-          "name": "",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/3d/Harmonicshieldgraph.png/500px-Harmonicshieldgraph.png"
-        },
-        {
-          "name": "Chorale of Clarity",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e5/Music_Chorale_of_Clarity.png/96px-Music_Chorale_of_Clarity.png"
-        },
-        {
-          "name": "Ballad of Courage",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a4/Music_Ballad_of_Courage.png/96px-Music_Ballad_of_Courage.png"
         }
       ],
       "memory": [
@@ -1122,78 +934,6 @@
         {
           "name": "Spell Memory",
           "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e3/Skill_Spell_Memory.png/96px-Skill_Spell_Memory.png"
-        },
-        {
-          "name": "Insect Predation",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f2/Skill_InsectPredation.png/96px-Skill_InsectPredation.png"
-        },
-        {
-          "name": "Wild Rush",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c9/Skill_Rush.png/96px-Skill_Rush.png"
-        },
-        {
-          "name": "Survival Instinct",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d7/Skill_SurvivalInstinct.png/96px-Skill_SurvivalInstinct.png"
-        },
-        {
-          "name": "Wild Fury",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a3/Skill_WildFury.png/96px-Skill_WildFury.png"
-        },
-        {
-          "name": "Nature's Touch",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f1/Spell_NaturesTouch.png/96px-Spell_NaturesTouch.png"
-        },
-        {
-          "name": "Barkskin Armor",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/bf/Spell_BarkskinArmor.png/96px-Spell_BarkskinArmor.png"
-        },
-        {
-          "name": "Dreamfire",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/05/Spell_Dreamfire.png/96px-Spell_Dreamfire.png"
-        },
-        {
-          "name": "Summon Treant",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/26/Spell_SummonTreant.png/96px-Spell_SummonTreant.png"
-        },
-        {
-          "name": "Thorn Barrier",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/51/Spell_ThornBarrier.png/96px-Spell_ThornBarrier.png"
-        },
-        {
-          "name": "Entangling Vines",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/8c/Spell_EntanglingVines.png/96px-Spell_EntanglingVines.png"
-        },
-        {
-          "name": "Restore",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/7f/Spell_Restore.png/96px-Spell_Restore.png"
-        },
-        {
-          "name": "Tree of Life",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/02/Spell_TreeOfLife.png/96px-Spell_TreeOfLife.png"
-        },
-        {
-          "name": "Mending Grove",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e2/Spell_MendingGrove.png/96px-Spell_MendingGrove.png"
-        },
-        {
-          "name": "Human",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2e/ShapeShift_DefaultCharacter.png/96px-ShapeShift_DefaultCharacter.png"
-        },
-        {
-          "name": "Bear",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a7/ShapeShift_Bear.png/96px-ShapeShift_Bear.png"
-        },
-        {
-          "name": "Chicken",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/0d/ShapeShift_Chicken.png/96px-ShapeShift_Chicken.png"
-        },
-        {
-          "name": "Panther",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b9/ShapeShift_Panther.png/96px-ShapeShift_Panther.png"
-        },
-        {
-          "name": "Rat",
-          "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a9/ShapeShift_Rat.png/96px-ShapeShift_Rat.png"
         }
       ],
       "memory": [
