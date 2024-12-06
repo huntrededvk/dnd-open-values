@@ -852,10 +852,6 @@
           "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Spell_Predation.png"
         },
         {
-          "name": "Each Darkness Shard grants a 20%  Dark Power Bonus and can store up to 5. This effect is consumed when casting a dark spell.",
-          "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/20px-DarkDamage.png"
-        },
-        {
           "name": "Ray of Darkness",
           "preview_image": "https://raw.githubusercontent.com/huntrededvk/dnd-open-values/refs/heads/main/images/96px-Spell_Ray_of_Darkness.png"
         },
