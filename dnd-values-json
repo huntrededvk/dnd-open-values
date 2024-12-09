@@ -975,314 +975,372 @@
   "weapon": [
     {
       "name": "Arming Sword",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b4/Arming_Sword_2.png/45px-Arming_Sword_2.png"
     },
     {
       "name": "Crystal Sword",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/78/Crystal_Sword_2.png/45px-Crystal_Sword_2.png"
     },
     {
       "name": "Falchion",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/70/Falchion_2.png/45px-Falchion_2.png"
     },
     {
       "name": "Longsword",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/fa/Longsword_2.png/45px-Longsword_2.png"
     },
     {
       "name": "Rapier",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/89/Rapier_2.png/45px-Rapier_2.png"
     },
     {
       "name": "Short Sword",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/ef/Short_Sword_2.png/45px-Short_Sword_2.png"
     },
     {
       "name": "Viking Sword",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/fb/Viking_Sword_2.png/45px-Viking_Sword_2.png"
     },
     {
       "name": "Zweihander",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/28/Zweihander_2.png/45px-Zweihander_2.png"
     },
     {
       "name": "Blade of Righteousness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/1/1e/Blade_of_Righteousness.png/45px-Blade_of_Righteousness.png"
     },
     {
       "name": "Demon's Glee",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b3/Demon%27s_Glee.png/45px-Demon%27s_Glee.png"
     },
     {
       "name": "Divine Blade",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c5/Divine_Blade.png/45px-Divine_Blade.png"
     },
     {
       "name": "Divine Short Sword",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c5/Divine_Short_Sword.png/45px-Divine_Short_Sword.png"
     },
     {
       "name": "Falchion of Honor",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/85/Falchion_of_Honor.png/45px-Falchion_of_Honor.png"
     },
     {
       "name": "Golden Viking Sword",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/c4/Golden_Viking_Sword.png/45px-Golden_Viking_Sword.png"
     },
     {
       "name": "Short Sword of Righteousness",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/ec/Short_Sword_of_Righteousness.png/45px-Short_Sword_of_Righteousness.png"
     },
     {
       "name": "Sterling Blade",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/43/Sterling_Blade.png/45px-Sterling_Blade.png"
     },
     {
       "name": "Sterling Short Sword",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/43/Sterling_Short_Sword.png/45px-Sterling_Short_Sword.png"
     },
     {
       "name": "Void Blade",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/3a/Void_Blade.png/45px-Void_Blade.png"
     },
     {
       "name": "Club",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/81/Club_2.png/45px-Club_2.png"
     },
     {
       "name": "Flanged Mace",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/26/Flanged_Mace_2.png/45px-Flanged_Mace_2.png"
     },
     {
-      "name": "Lute",
-      "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/fa/Lute_2.png/90px-Lute_2.png"
-    },
-    {
       "name": "Morning Star",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/9d/Morning_Star_2.png/45px-Morning_Star_2.png"
     },
     {
       "name": "Quarterstaff",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/db/Quarterstaff_2.png/45px-Quarterstaff_2.png"
     },
     {
-      "name": "Torch",
-      "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d5/Torch_2.png/45px-Torch_2.png"
-    },
-    {
       "name": "War Hammer",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d8/War_Hammer_2.png/45px-War_Hammer_2.png"
     },
     {
       "name": "War Maul",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/01/War_Maul_2.png/90px-War_Maul_2.png"
     },
     {
       "name": "Boneshaper",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/09/Boneshaper.png/45px-Boneshaper.png"
     },
     {
       "name": "Divine Rod",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/95/Divine_Rod.png/45px-Divine_Rod.png"
     },
     {
       "name": "Divine Staff",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/07/Divine_Staff.png/45px-Divine_Staff.png"
     },
     {
       "name": "Light Bringer",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/0c/Light_Bringer.png/45px-Light_Bringer.png"
     },
     {
       "name": "Rod of Righteousness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/6a/Rod_of_Righteousness.png/45px-Rod_of_Righteousness.png"
     },
     {
       "name": "Staff of Righteousness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f4/Staff_of_Righteousness.png/45px-Staff_of_Righteousness.png"
     },
     {
       "name": "Sterling Rod",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/34/Sterling_Rod.png/45px-Sterling_Rod.png"
     },
     {
       "name": "Sterling Staff",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/75/Sterling_Staff.png/45px-Sterling_Staff.png"
     },
     {
       "name": "Troll's Bane",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/ff/Troll%27s_Bane.png/45px-Troll%27s_Bane.png"
     },
     {
       "name": "Castillon Dagger",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/48/Castillon_Dagger_2.png/45px-Castillon_Dagger_2.png"
     },
     {
       "name": "Kris Dagger",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d6/Kris_Dagger_2.png/45px-Kris_Dagger_2.png"
     },
     {
       "name": "Rondel Dagger",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f4/Rondel_Dagger_2.png/45px-Rondel_Dagger_2.png"
     },
     {
       "name": "Stiletto Dagger",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f2/Stiletto_Dagger_2.png/45px-Stiletto_Dagger_2.png"
     },
     {
       "name": "Dagger of Righteousness",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2c/Dagger_of_Righteousness.png/45px-Dagger_of_Righteousness.png"
     },
     {
       "name": "Divine Dagger",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b7/Divine_Dagger.png/45px-Divine_Dagger.png"
     },
     {
       "name": "Sterling Dagger",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/ac/Sterling_Dagger.png/45px-Sterling_Dagger.png"
     },
     {
-      "name": "Throwing Knife",
-      "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d1/Throwing_Knife.png/45px-Throwing_Knife.png"
-    },
-    {
       "name": "Bardiche",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/05/Bardiche_2.png/90px-Bardiche_2.png"
     },
     {
       "name": "Halberd",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/5b/Halberd_2.png/90px-Halberd_2.png"
     },
     {
       "name": "Spear",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/23/Spear_2.png/45px-Spear_2.png"
     },
     {
       "name": "Spear of Rot",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/bb/Spear_of_Rot.png/45px-Spear_of_Rot.png"
     },
     {
       "name": "Battle Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/33/Battle_Axe_2.png/90px-Battle_Axe_2.png"
     },
     {
       "name": "Double Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a4/Double_Axe_2.png/90px-Double_Axe_2.png"
     },
     {
       "name": "Felling Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/87/Felling_Axe_2.png/90px-Felling_Axe_2.png"
     },
     {
       "name": "Hatchet",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e7/Hatchet_2.png/45px-Hatchet_2.png"
     },
     {
       "name": "Horseman's Axe",
+      "slot": 1,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/6b/Horseman%27s_Axe_2.png/45px-Horseman%27s_Axe_2.png"
     },
     {
       "name": "Axe of Righteousness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/d/d6/Axe_of_Righteousness.png/90px-Axe_of_Righteousness.png"
     },
     {
       "name": "Divine Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/5a/Divine_Axe.png/90px-Divine_Axe.png"
     },
     {
-      "name": "Francisca Axe",
-      "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e9/Francisca_Axe.png/45px-Francisca_Axe.png"
-    },
-    {
       "name": "Golden Felling Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/94/Golden_Felling_Axe.png/90px-Golden_Felling_Axe.png"
     },
     {
       "name": "Sterling Axe",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/6a/Sterling_Axe.png/90px-Sterling_Axe.png"
     },
     {
       "name": "Longbow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/9a/Longbow_2.png/45px-Longbow_2.png"
     },
     {
       "name": "Recurve Bow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/8/8c/Recurve_Bow_2.png/45px-Recurve_Bow_2.png"
     },
     {
       "name": "Survival Bow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/6/6f/Survival_Bow_2.png/45px-Survival_Bow_2.png"
     },
     {
       "name": "Bow of Righteousness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/23/Bow_of_Righteousness.png/45px-Bow_of_Righteousness.png"
     },
     {
       "name": "Centaur's Madness",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/5/52/Centaur%27s_Madness.png/45px-Centaur%27s_Madness.png"
     },
     {
       "name": "Divine Bow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/1/1c/Divine_Bow.png/45px-Divine_Bow.png"
     },
     {
       "name": "Sterling Bow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e4/Sterling_Bow.png/45px-Sterling_Bow.png"
     },
     {
       "name": "Crossbow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/01/Crossbow_2.png/90px-Crossbow_2.png"
     },
     {
       "name": "Hand Crossbow",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/4b/Hand_Crossbow_2.png/90px-Hand_Crossbow_2.png"
     },
     {
       "name": "Windlass Crossbow",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/2/2a/Windlass_Crossbow_2.png/90px-Windlass_Crossbow_2.png"
     },
     {
       "name": "Ceremonial Staff",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/f/f9/Ceremonial_Staff_2.png/45px-Ceremonial_Staff_2.png"
     },
     {
       "name": "Crystal Ball",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/1/19/Crystal_Ball_2.png/90px-Crystal_Ball_2.png"
     },
     {
       "name": "Crystal Sword",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/7/78/Crystal_Sword_2.png/45px-Crystal_Sword_2.png"
     },
     {
       "name": "Magic Staff",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/9/98/Magic_Staff_2.png/45px-Magic_Staff_2.png"
     },
     {
       "name": "Spellbook",
+      "slot": 3,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/e/e9/Spellbook_2.png/90px-Spellbook_2.png"
     },
     {
       "name": "Cyclops Vision Crystal",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/3/37/Cyclops_Vision_Crystal.png/90px-Cyclops_Vision_Crystal.png"
     },
     {
       "name": "Mana Sphere",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/0/06/Mana_Sphere.png/90px-Mana_Sphere.png"
     },
     {
       "name": "Buckler",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/a/a5/Buckler_2.png/90px-Buckler_2.png"
     },
     {
       "name": "Heater Shield",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/b/b1/Heater_Shield_2.png/90px-Heater_Shield_2.png"
     },
     {
       "name": "Pavise",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/c/ce/Pavise_2.png/135px-Pavise_2.png"
     },
     {
       "name": "Round Shield",
+      "slot": 2,
       "preview_image": "https://darkanddarker.wiki.spellsandguns.com/images/thumb/4/43/Round_Shield_2.png/90px-Round_Shield_2.png"
     }
   ],
